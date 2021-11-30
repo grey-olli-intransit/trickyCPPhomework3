@@ -1,0 +1,14 @@
+----> 03:45:54 Tue Nov 30 olli@dell15 ~/CLionProjects/trickyCPP/homework3
+$ ./cmake-build-debug/homework3 
+1 2 3 4 5 6 7 
+1 2 3 4 5 6 7 
+Matrix:
+3 6 7 
+5 3 5 
+6 2 9 
+Determinant for this matrix: -95
+2 3 
+2 3 2.5 
+----> 03:46:57 Tue Nov 30 olli@dell15 ~/CLionProjects/trickyCPP/homework3
+$ 
+
